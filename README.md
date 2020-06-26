@@ -8,7 +8,7 @@ FEATURES:
 
 Mobile-first design
 
-recent portfolio content created using React
+Recent portfolio content created using React
 
 CONTENT:
 
