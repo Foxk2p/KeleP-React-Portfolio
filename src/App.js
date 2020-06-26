@@ -5,24 +5,30 @@ import {
   Route,
   BrowserRouter as Router
 } from 'react-router-dom'
-import PageOne from './pages/PageOne'
-import PageTwo from './pages/PageTwo'
+import Portfolio from './pages/Portfolio'
+import Contact from './pages/Contact'
+import Bio from './pages/Bio'
+
 
 const App = () => {
   return (
     <Router>
       <div>
         <nav>
-          <Link to="/">Page One</Link>
-          <Link to="/pagetwo">Page Two</Link>
+          <Link to="/">Bio</Link>
+          <Link to="/Portfolio">Portfolio</Link>
+          <Link to="/Contact">Contact</Link>
         </nav>
         <Switch>
 
           <Route exact path="/">
-            <PageOne />
+            <Bio />
           </Route>
-          <Route path="/pagetwo">
-            <PageTwo />
+          <Route path="/Portfolio">
+            <Portfolio />
+          </Route>
+          <Route path="/Contact">
+            <Contact />
           </Route>
 
         </Switch>
