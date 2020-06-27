@@ -6,26 +6,6 @@ import '../../Assets/CSS/style.css'
 const Bio = () => {
   return (
     <>
-      <div className="navbar navbar-expand-lg navbar-dark bgColor" >
-        <a className="navbar-brand" href="/">Kele's</a>
-        <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span className="navbar-toggler-icon"></span>
-        </button>
-        <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav">
-            <li className="nav-item active">
-              <a className="nav-link" href="/">Bio<span className="sr-only">(current)</span></a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="./portfolio.html">Portfolio</a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="./contact.html">Contact</a>
-            </li>
-          </ul>
-        </div>
-      </div>
       <header className='masthead'>
         <p className='masthead-intro'>Hi I'm</p>
         <h1 className='masthead-heading'>Kele</h1>

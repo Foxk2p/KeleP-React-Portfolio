@@ -8,19 +8,15 @@ import {
 import Portfolio from './pages/Portfolio'
 import Contact from './pages/Contact'
 import Bio from './pages/Bio'
+import Navbar from './components/Navbar'
 
 
 const App = () => {
   return (
     <Router>
       <div>
-        <nav>
-          <Link to="/">Bio</Link>
-          <Link to="/Portfolio">Portfolio</Link>
-          <Link to="/Contact">Contact</Link>
-        </nav>
+        <Navbar />
         <Switch>
-
           <Route exact path="/">
             <Bio />
           </Route>
