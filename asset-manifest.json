@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/KeleP-React-Portfolio/static/css/main.48df5c43.chunk.css",
+    "main.js": "/KeleP-React-Portfolio/static/js/main.87d4c8e5.chunk.js",
+    "main.js.map": "/KeleP-React-Portfolio/static/js/main.87d4c8e5.chunk.js.map",
+    "runtime-main.js": "/KeleP-React-Portfolio/static/js/runtime-main.dc725964.js",
+    "runtime-main.js.map": "/KeleP-React-Portfolio/static/js/runtime-main.dc725964.js.map",
+    "static/js/2.25ab81c2.chunk.js": "/KeleP-React-Portfolio/static/js/2.25ab81c2.chunk.js",
+    "static/js/2.25ab81c2.chunk.js.map": "/KeleP-React-Portfolio/static/js/2.25ab81c2.chunk.js.map",
+    "index.html": "/KeleP-React-Portfolio/index.html",
+    "precache-manifest.cb2432607392377df663ed30d1c6f51b.js": "/KeleP-React-Portfolio/precache-manifest.cb2432607392377df663ed30d1c6f51b.js",
+    "service-worker.js": "/KeleP-React-Portfolio/service-worker.js",
+    "static/css/main.48df5c43.chunk.css.map": "/KeleP-React-Portfolio/static/css/main.48df5c43.chunk.css.map",
+    "static/js/2.25ab81c2.chunk.js.LICENSE.txt": "/KeleP-React-Portfolio/static/js/2.25ab81c2.chunk.js.LICENSE.txt",
+    "static/media/JavaScript-Quiz.png": "/KeleP-React-Portfolio/static/media/JavaScript-Quiz.c27c21dc.png",
+    "static/media/Movie-Sense.png": "/KeleP-React-Portfolio/static/media/Movie-Sense.52b3d7c3.png",
+    "static/media/My-Work-Day-Scheduler.png": "/KeleP-React-Portfolio/static/media/My-Work-Day-Scheduler.bd4bbff7.png",
+    "static/media/Urban Homesteading.png": "/KeleP-React-Portfolio/static/media/Urban Homesteading.23450aaa.png",
+    "static/media/Weather-Dashboard.png": "/KeleP-React-Portfolio/static/media/Weather-Dashboard.b44888e4.png",
+    "static/media/kpBioPic2.png": "/KeleP-React-Portfolio/static/media/kpBioPic2.95b06a74.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc725964.js",
+    "static/js/2.25ab81c2.chunk.js",
+    "static/css/main.48df5c43.chunk.css",
+    "static/js/main.87d4c8e5.chunk.js"
+  ]
+}
