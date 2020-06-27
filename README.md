@@ -39,6 +39,6 @@ Bootstrap
 
 
 
-visit: <a href="https://foxk2p.github.io/" target="_blank">My Portfolio</a>
+visit: <a href="https://foxk2p.github.io/KeleP-React-Portfolio/" target="_blank">My Portfolio</a>
 
 <img src="./Assets/images/.png">
