@@ -3,50 +3,51 @@ import React from 'react'
 const Contact = () => {
   return (
     <>
-      <div class="row">
-        <div class="col-sm">
-          <p class="titles">Contact Me
+      <div className="row">
+        <div className="col-sm">
+          <p className="titles">Contact Me
           </p>
         </div>
       </div>
 
-      <div class="spacing-div"></div>
+      <div className="spacing-div"></div>
 
 
-      <div class="container">
-        <div class="row">
-          <div class="col-sm ">
-            <h2 class="titles titleBg ">
+      <div className="container">
+        <div className="row">
+          <div className="col-sm ">
+            <h2 className="titles titleBg ">
               Contact me by email:
             </h2>
-            <p class="marginLeft">
+            <p className="marginLeft">
               foxk2p@gmail.com
             </p>
           </div>
 
-          <div class="col-sm center">
-            <h2 class="titles titleBg ">
+          <div className="col-sm center">
+            <h2 className="titles titleBg ">
               Contact me by phone:
             </h2>
             <p>
-              (808) 398-5798)
+              (808) 398-5798
             </p>
           </div>
         </div>
 
-        <div class="spacing-div-xl"></div>
+        <div className="spacing-div-xl"></div>
 
-          {/* <div class="row">
-            <div class="col center">
-              <a href="./index.html">
-                <button>Back to Bio</button>
-              </a>
-            </div>
-          </div> */}
+        <div className="row">
+          <div className="col center">
+            <a href="./index.html">
+              <button>Back to Bio</button>
+            </a>
+          </div>
+        </div>
 
+
+
+        <div className="spacing-div-sm"></div>
       </div>
-
-        <div class="spacing-div-sm"></div>
     </>
   )
 }
