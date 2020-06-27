@@ -29,6 +29,10 @@ p {
   filter: drop-shadow(10px 10px 20px rgba(0, 0, 0, .5));
 }
 
+.thumbnailSize {
+  width: 400px;
+  height: 300px;
+}
 
 .content-footer, .masthead-heading, .masthead-intro {
   text-align: center;
@@ -110,7 +114,6 @@ p {
   display: inline-block;
   margin: 5px;
 }
-
 
 /* .bioPicturesize {
     height: "50px";

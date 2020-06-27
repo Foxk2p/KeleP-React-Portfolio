@@ -37,11 +37,11 @@ const Contact = () => {
         <div className="spacing-div-xl"></div>
 
         <div className="row">
-          <div className="col center">
+          {/* <div className="col center">
             <a href="./index.html">
               <button>Back to Bio</button>
             </a>
-          </div>
+          </div> */}
         </div>
 
 
