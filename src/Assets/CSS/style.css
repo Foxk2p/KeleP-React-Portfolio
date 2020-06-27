@@ -18,9 +18,13 @@ p {
   text-align: center;
 }
 
+.marginLeft {
+  margin-left: 150px;
+}
+
 .bio-picture {
-  max-width: 21%;
-  max-height: 20%;
+  max-width: 25%;
+  max-height: 24%;
   border-radius: 50%;
   filter: drop-shadow(10px 10px 20px rgba(0, 0, 0, .5));
 }
