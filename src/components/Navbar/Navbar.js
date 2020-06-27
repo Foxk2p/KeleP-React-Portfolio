@@ -12,20 +12,20 @@ const Navbar = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
-            <li className="nav-item active">
+            <li className="nav-item">
               <Link className="nav-link" to="/">Bio</Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/Portfolio">Portfolio</Link>
             </li>
             <li className="nav-item">
-              <Link  className="nav-link" to="/Contact">Contact</Link>
+              <Link className="nav-link" to="/Contact">Contact</Link>
             </li>
           </ul>
         </div>
       </div>
 
-    </> 
+    </>
   )
 }
 
