@@ -9,12 +9,13 @@ import Portfolio from './pages/Portfolio'
 import Contact from './pages/Contact'
 import Bio from './pages/Bio'
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 
 
 const App = () => {
   return (
     <Router>
-      <div>
+      <>
         <Navbar />
         <Switch>
           <Route exact path="/">
@@ -26,9 +27,9 @@ const App = () => {
           <Route path="/Contact">
             <Contact />
           </Route>
-
         </Switch>
-      </div>
+        <Footer/>
+      </>
     </Router>
   )
 }

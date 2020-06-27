@@ -71,7 +71,7 @@ const Bio = () => {
       <div className="spacing-div-xl"></div>
       <div className="spacing-div-sm"></div>
             
-      <div className="row">
+      {/* <div className="row">
         <div className="col">
           <div className="content-footer">
             <footer id="footer">
@@ -81,7 +81,7 @@ const Bio = () => {
             </footer>
           </div>
         </div>
-      </div>
+      </div> */}
     </>
   )
 }

@@ -45,8 +45,10 @@ const Contact = () => {
         </div>
 
 
-
         <div className="spacing-div-sm"></div>
+        <div className="spacing-div-sm"></div>
+        <div className="spacing-div-sm"></div>
+       
       </div>
     </>
   )
