@@ -1,9 +1,12 @@
 import React from 'react'
+import kelePic from '../../Assets/images/kpBioPic2.png'
+import '../../Assets/CSS/reset.css'
+import '../../Assets/CSS/style.css'
 
 const Bio = () => {
   return (
     <>
-      <div className="navbar navbar-expand-lg navbar-dark" style="background-color: rgb(52, 30, 123);">
+      <div className="navbar navbar-expand-lg navbar-dark bgColor" >
         <a className="navbar-brand" href="/">Kele's</a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,9 +36,8 @@ const Bio = () => {
       <div className="container">
         <div className="row">
           <div className="col center">
-            <img
-              src="./Assets/images/kpBioPic2.png"
-              alt="Kele P Image" className="bio-picture" style={{ width: "265px;" height: "250px;" }} />
+            < img src={kelePic}
+              alt="Kele Image" className="bio-picture"  />
           </div>
         </div>
       </div>
@@ -45,7 +47,7 @@ const Bio = () => {
       <div className="container">
         <div className="row">
           <div className="col-sm-8">
-            <h2 className="titles">Introduction</h2>
+            <h2 className="titles titleBg">Introduction</h2>
             <p>My name is Kele Palafox and I am currently enrolled in The Coding Boot Camp at UCI Continuing Education.</p>
             <h2>Where I'm From</h2>
             <p>For most of my life I have lived on the island of Oahu, Hawaii.</p>
@@ -61,7 +63,7 @@ const Bio = () => {
           projects and solutions into an exciting, fast-paced, and continuously changing digital world.</p>
           </div>
           <div className="col-sm-4">
-            <h2 className="titles">My Story</h2>
+            <h2 className="titles titleBg">My Story</h2>
             <p>While I currently reside in Huntington Beach, California, I am originaly from the island of Oahu, Hawaii.
             During my time in the islands, I attended a small private shcool called Maryknoll. Maryknoll Schools has a
             prominent Catholic history and tradition which instilled a foundation of service, community, and gratitude
@@ -71,32 +73,24 @@ const Bio = () => {
             experience not only reaffirmed my passion for the accademic interests I naturaly had but also broadened by
             perspective to include many more professional possibilites. One of these new found possibilites was web
             develpment.
-          <br />Lorem ipsum dolor sit, amet consectetur
-                adipisicing elit. Quisquam sunt qui ipsam odit nesciunt adipisci iure veniam
-                aliquam quas sit corporis nisi labore quos, nemo fuga iusto? Pariatur, incidunt quas.Lorem ipsum dolor sit,
-                amet
-                consectetur adipisicing elit. Quisquam sunt qui ipsam odit nesciunt adipisci iure veniam
-                aliquam quas sit corporis nisi labore quos, nemo fuga iusto? Pariatur, incidunt quas.Lorem ipsum dolor sit,
-                amet
-                consectetur adipisicing elit. Quisquam sunt qui ipsam odit nesciunt adipisci iure veniam
-          aliquam quas sit corporis nisi labore quos, nemo fuga iusto? Pariatur, incidunt quas.</p>
+          </p>
           </div>
         </div>
         <div className="row">
-          <div className="center">
+          {/* <div className="center">
             <a href="./contact.html">
               <button>Contact Me</button>
             </a>
             <a href="./portfolio.html">
               <button>View my portfolio</button>
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
 
-
+      <div className="spacing-div-xl"></div>
       <div className="spacing-div-sm"></div>
-
+            
       <div className="row">
         <div className="col">
           <div className="content-footer">

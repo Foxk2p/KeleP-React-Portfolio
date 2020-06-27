@@ -1,0 +1,122 @@
+body {
+  color: #222222;
+  font-size: 1em;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: rgba(232, 222, 236, 0.748);
+}
+
+h2 {
+  font-weight: bold;
+  margin: 15px;
+}
+
+p {
+  line-height: 25px;
+}
+
+.center {
+  text-align: center;
+}
+
+.bio-picture {
+  max-width: 21%;
+  max-height: 20%;
+  border-radius: 50%;
+  filter: drop-shadow(10px 10px 20px rgba(0, 0, 0, .5));
+}
+
+
+.content-footer, .masthead-heading, .masthead-intro {
+  text-align: center;
+}
+
+.bgColor {
+  background-color: rgb(52, 30, 123);
+}
+
+.masthead {
+  padding: 6em 0;
+  background-image: url("https://i0.wp.com/thepointsguy.com/wp-content/uploads/2019/08/Honolulu_Okimo_GettyImages-1015218282.jpg?resize=800%2C450px&ssl=1");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.masthead-intro {
+  margin-bottom: 0.1em;
+  font-size: 2em;
+  color: #ffffff;
+}
+
+.masthead-heading {
+  margin-top: -0.2em;
+  font-weight: bold;
+  font-size: 6em;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: rgba(66, 31, 181, 0.088);
+}
+
+.spacing-div-sm {
+  height: 50px;
+  margin: auto;
+}
+
+.spacing-div {
+  height: 150px;
+  margin: auto;
+}
+
+.spacing-div-xl {
+  height: 400px;
+  margin: auto;
+}
+
+.titles {
+  font-size: 2em;
+  font-family: "Open Sans", "Helvetica Neue";
+  text-align: center;
+  color: #f0eff7;
+}
+
+.subTitles {
+  font-size: 1em;
+  font-family: "Open Sans", "Helvetica Neue";
+  text-align: center;
+  color: #e0dfe7;
+}
+
+.titleBg {
+  background-color: rgb(52, 30, 123);
+  /* margin: 5px; */
+}
+
+#footer {
+  padding: 15px 0;
+  text-align: center;
+  background-color: rgb(52, 30, 123);
+  text-decoration: none;
+}
+
+#footer a {
+  color: #ffffff;
+}
+
+.social>li {
+  display: inline-block;
+  margin: 5px;
+}
+
+
+/* .bioPicturesize {
+    height: "50px";
+    width: "50px";
+} */
+
+/* .bioPictureheight {
+  height: "250px"
+  }
+
+.bioPicturewidth {
+  width: "265px"
+} */
