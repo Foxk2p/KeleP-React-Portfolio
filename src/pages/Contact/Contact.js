@@ -29,7 +29,8 @@ const Contact = () => {
               Contact me by phone:
             </h2>
             <p>
-              (808) 398-5798
+              Coming soon
+              <br />(***) ***-****
             </p>
           </div>
         </div>
@@ -48,7 +49,7 @@ const Contact = () => {
         <div className="spacing-div-sm"></div>
         <div className="spacing-div-sm"></div>
         <div className="spacing-div-sm"></div>
-       
+
       </div>
     </>
   )

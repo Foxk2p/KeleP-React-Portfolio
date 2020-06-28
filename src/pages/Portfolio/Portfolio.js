@@ -4,6 +4,7 @@ import Movie from '../../Assets/images/Movie-Sense.png'
 import Quiz from '../../Assets/images/JavaScript-Quiz.png'
 import Weather from '../../Assets/images/Weather-Dashboard.png'
 import Scheduler from '../../Assets/images/My-Work-Day-Scheduler.png'
+import Budget from '../../Assets/images/budget.png'
 import '../../Assets/CSS/reset.css'
 import '../../Assets/CSS/style.css'
 
@@ -117,6 +118,20 @@ const Portfolio = () => {
           </div>
 
           <div className="col-sm col-6">
+            <a href="https://github.com/Foxk2p/Progressive-Budget" target="_blank">
+              <div className="titleBg">
+                <h5 className="titles">Progressive Budget
+                </h5>
+                <h6 className="subTitles">View Project Code
+                </h6>
+              </div>
+            </a>
+            <a href="https://nameless-fjord-59053.herokuapp.com/" target="_blank">
+              <div className="titleBg">
+                <img src={Budget} alt="Progressive Budget" className="img-thumbnail thumbnailSize" />
+                <h6 className="subTitles">View Live Application</h6>
+              </div>
+            </a>
           </div>
 
         </div>
