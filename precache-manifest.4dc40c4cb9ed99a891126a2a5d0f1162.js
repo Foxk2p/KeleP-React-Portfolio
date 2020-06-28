@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17e293dadd44d1737c8c5533e18de882",
+    "revision": "14fa4f560ce7187d2bfcd9ddf9fce31f",
     "url": "/KeleP-React-Portfolio/index.html"
   },
   {
-    "revision": "f2466abc0541341f0464",
-    "url": "/KeleP-React-Portfolio/static/css/main.48df5c43.chunk.css"
+    "revision": "e96eda189276010287f6",
+    "url": "/KeleP-React-Portfolio/static/css/main.bf3b09bb.chunk.css"
   },
   {
-    "revision": "9ddb22e588feb3ac37f3",
-    "url": "/KeleP-React-Portfolio/static/js/2.25ab81c2.chunk.js"
+    "revision": "5c719ef02bb7c1bf31e1",
+    "url": "/KeleP-React-Portfolio/static/js/2.f7e4acc9.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/KeleP-React-Portfolio/static/js/2.25ab81c2.chunk.js.LICENSE.txt"
+    "url": "/KeleP-React-Portfolio/static/js/2.f7e4acc9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2466abc0541341f0464",
-    "url": "/KeleP-React-Portfolio/static/js/main.87d4c8e5.chunk.js"
+    "revision": "e96eda189276010287f6",
+    "url": "/KeleP-React-Portfolio/static/js/main.1210dfa0.chunk.js"
   },
   {
     "revision": "6d1d019c138de79ee919",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b44888e41cb28bc07000fe68d0fce086",
     "url": "/KeleP-React-Portfolio/static/media/Weather-Dashboard.b44888e4.png"
+  },
+  {
+    "revision": "76a039160f751fda04f79a375f246ac4",
+    "url": "/KeleP-React-Portfolio/static/media/budget.76a03916.png"
   },
   {
     "revision": "95b06a74b1c9cc5ea78667e3409a7126",

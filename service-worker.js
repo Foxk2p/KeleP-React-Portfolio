@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/KeleP-React-Portfolio/precache-manifest.cb2432607392377df663ed30d1c6f51b.js"
+  "/KeleP-React-Portfolio/precache-manifest.4dc40c4cb9ed99a891126a2a5d0f1162.js"
 );
 
 self.addEventListener('message', (event) => {
