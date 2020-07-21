@@ -30,11 +30,11 @@ A link to a PDF of my resume with updated projects
 
 A list of projects, including the following information:
 
-  1.Project title
+  1. Project title
 
-  2.Links to deployed applications
+  2. Links to deployed applications
 
-  3.Links to project GitHub repositories
+  3. Links to project GitHub repositories
 
 
 TECHNOLOGY USED:
@@ -52,9 +52,6 @@ CSS,
 GitHub,
 
 Visual Studio Code,
-
-
-
 
 VISIT: <a href="https://foxk2p.github.io/KeleP-React-Portfolio/" target="_blank">My Portfolio</a>
 
