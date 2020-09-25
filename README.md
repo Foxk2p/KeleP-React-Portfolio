@@ -18,7 +18,7 @@ Current portfolio content created using React
 
 Mobile-first design
 
-Bootstrap aesthetics UI
+Bootstrap aesthetics
 
 CONTENT:
 
